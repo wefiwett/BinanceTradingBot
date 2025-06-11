@@ -29,26 +29,6 @@ Install with:
 pip install -r requirements.txt
 ```
 
----
-
-## 🔧 Setup
-
-1. **Create a `.env` file** with your API credentials:
-
-```ini
-BINANCE_API_KEY=your_binance_api_key
-BINANCE_API_SECRET=your_binance_api_secret
-OPENAI_API_KEY=your_openai_key
-```
-
-2. **Start the bot**:
-
-```bash
-python bot.py
-```
-
----
-
 ## 📈 Strategies Overview
 
 | Strategy         | Win Rate (Backtest) | Target Profit | Stop Loss | Notes                          |
